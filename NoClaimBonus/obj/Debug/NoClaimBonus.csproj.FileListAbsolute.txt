@@ -1,0 +1,6 @@
+F:\Workspaces\Visual Studio Workspace\NoClaimBonus\NoClaimBonus\bin\Debug\NoClaimBonus.exe.config
+F:\Workspaces\Visual Studio Workspace\NoClaimBonus\NoClaimBonus\obj\Debug\NoClaimBonus.csprojResolveAssemblyReference.cache
+F:\Workspaces\Visual Studio Workspace\NoClaimBonus\NoClaimBonus\bin\Debug\NoClaimBonus.exe
+F:\Workspaces\Visual Studio Workspace\NoClaimBonus\NoClaimBonus\bin\Debug\NoClaimBonus.pdb
+F:\Workspaces\Visual Studio Workspace\NoClaimBonus\NoClaimBonus\obj\Debug\NoClaimBonus.exe
+F:\Workspaces\Visual Studio Workspace\NoClaimBonus\NoClaimBonus\obj\Debug\NoClaimBonus.pdb
